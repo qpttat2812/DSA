@@ -1,2 +1,2 @@
 # LeetCode_Practice
-Practice in Java
+Practice in Java/Python/C++
